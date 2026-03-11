@@ -43,7 +43,7 @@ I participated as a QA Tester in a 1.5‑month educational project at TECHIN, wh
 
 # Additional information
 In the QA folder, you will find testing documents:
-- a checklist that was used as the basis for performing the tests.
+- A checklist that was used as the basis for performing the tests.
 - In the Adobe folder, you will find the page design. Its images were uploaded to Pixel Perfect PRO to verify the page’s accuracy within a 5px tolerance.
 
 # [Project documents (Adobe XD)](https://xd.adobe.com/view/2736f77a-eb8a-4b0f-a1e2-0dadbd759ab6-7265/)
